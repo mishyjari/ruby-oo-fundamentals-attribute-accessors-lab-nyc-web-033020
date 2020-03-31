@@ -1,6 +1,6 @@
 ## code your solution here. 
 class Cat
-  def initialize(name)
+  def initialize(name=nil)
     @name = name
   end
   
